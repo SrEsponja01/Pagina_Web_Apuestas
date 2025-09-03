@@ -132,8 +132,8 @@ $usuario = $_SESSION['usuario_nombre']; // Nombre del usuario logueado
 
 <div class="container">
   <div class="card">
-    <h2>Semana 1</h2>
-    <p>Revisa los partidos de la semana 1 y marca tus apuestas.</p>
+    <h2>Quiniela</h2>
+    <p>Revisa los partidos disponibles y marca tus apuestas por semana.</p>
     <a href="quiniela.php">Ir a Quiniela</a>
   </div>
 
